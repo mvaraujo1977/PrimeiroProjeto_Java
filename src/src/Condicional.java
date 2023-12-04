@@ -10,7 +10,7 @@ public class Condicional {
             System.out.println("Lançamento que os clientes estao curtindo!");
         }
         else {
-            System.out.println("Não é lançamento!");
+            System.out.println("Não é lançamento !");
         }
         // esse é o ou || e esse é o and &&
         if (incluidoNoPlano || tipoPlano.equals("plus")){
